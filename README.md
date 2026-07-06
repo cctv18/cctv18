@@ -11,9 +11,9 @@
 - 📫 我的酷安ID：@cctv18_2
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=cctv18&show_icons=true&&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=FFA07A&border_color=555555&include_all_commits=true&time=1783338782&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+  <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=cctv18&show_icons=true&&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=FFA07A&border_color=555555&include_all_commits=true&time=1788190580&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
   &nbsp;
-  <img height="165" src="https://github-readme-stats-yuzakikokuban.vercel.app/api/top-langs/?username=cctv18&layout=compact&bg_color=0d1117&title_color=a8c7fa&text_color=e3e3e3&time=1783338782&hide_border=true&exclude_forks=true" alt="languages graph" />
+  <img height="165" src="https://github-readme-stats-yuzakikokuban.vercel.app/api/top-langs/?username=cctv18&layout=compact&bg_color=0d1117&title_color=a8c7fa&text_color=e3e3e3&time=1788190580&hide_border=true&exclude_forks=true" alt="languages graph" />
 </div>
 
 <div align="center">
@@ -28,12 +28,12 @@
 
 <div align="center">
 
-  [<img src="https://github-readme-stats-yuzakikokuban.vercel.app/api/pin/?username=cctv18&repo=oppo_oplus_realme_sm8650&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=a8c0fa&border_color=555555&time=1783338782&show_owner=true" alt="oppo_oplus_realme_sm8650 stats" />](https://github.com/cctv18/oppo_oplus_realme_sm8650) [<img src="https://github-readme-stats-yuzakikokuban.vercel.app/api/pin/?username=cctv18&repo=oppo_oplus_realme_sm8750&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=a8c0fa&border_color=555555&time=1783338782&show_owner=true" alt="oppo_oplus_realme_sm8750 stats" />](https://github.com/cctv18/oppo_oplus_realme_sm8750)
+  [<img src="https://github-readme-stats-yuzakikokuban.vercel.app/api/pin/?username=cctv18&repo=oppo_oplus_realme_sm8650&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=a8c0fa&border_color=555555&time=1788190580&show_owner=true" alt="oppo_oplus_realme_sm8650 stats" />](https://github.com/cctv18/oppo_oplus_realme_sm8650) [<img src="https://github-readme-stats-yuzakikokuban.vercel.app/api/pin/?username=cctv18&repo=oppo_oplus_realme_sm8750&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=a8c0fa&border_color=555555&time=1788190580&show_owner=true" alt="oppo_oplus_realme_sm8750 stats" />](https://github.com/cctv18/oppo_oplus_realme_sm8750)
 </div>
 
 <div align="center">
   
-  [<img src="https://github-readme-stats-yuzakikokuban.vercel.app/api/pin/?username=cctv18&repo=oppo_oplus_realme_sm8850&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=a8c0fa&border_color=555555&time=1783338782&show_owner=true" alt="oppo_oplus_realme_sm8850 stats" />](https://github.com/cctv18/oppo_oplus_realme_sm8850)
+  [<img src="https://github-readme-stats-yuzakikokuban.vercel.app/api/pin/?username=cctv18&repo=oppo_oplus_realme_sm8850&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=a8c0fa&border_color=555555&time=1788190580&show_owner=true" alt="oppo_oplus_realme_sm8850 stats" />](https://github.com/cctv18/oppo_oplus_realme_sm8850)
 
 </div>
 
