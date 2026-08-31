@@ -9,6 +9,7 @@
 - 🌱 擅长的语言：C / C++ / Shell / Python / Typescript
 - ⚡ 参与开发维护的项目：[SukiSU Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra), [ReSukiSU](https://github.com/ReSukiSU/ReSukiSU), [Baseband Guard](https://github.com/vc-teahouse/Baseband-guard)等
 - 📫 我的酷安ID：@cctv18_2
+- 📢 我的个人频道：[cctv18的红茶馆](https://t.me/cc_tv_18)
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=cctv18&show_icons=true&&bg_color=17150d&title_color=a8c7fa&text_color=e5e5e5&icon_color=FFA07A&border_color=555555&include_all_commits=true&time=1788190580&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
